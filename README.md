@@ -14,6 +14,7 @@ Notes on individual Ignite 2026 sessions, with each slide shown next to what was
 
 - **[BRK240: Build and scale the next generation of AI agents in Microsoft Foundry](brk240/BRK240-session.md)**: hosted agents, the Copilot harness, governance, continuous improvement, and Toyota's EvalOps loop.
 - **[BRK267: What's new in Copilot Studio](brk267/BRK267-session.md)**: the rebuilt maker experience, the Microsoft Copilot harness, memory, Auto model selection, evaluations and FinOps.
+- **[BRK297: The shift from RAG to context: Grounding agents with Foundry IQ](brk297/BRK297-session.md)**: Foundry IQ Serverless, knowledge graphs (entities and topics), Microsoft Retriever 1, and SharePoint with permissions.
 - **[INV643: Azure and Windows, infrastructure for AI](inv643/INV643-session.md)**: Azure's AI core, Azure Catalyst, confidential and sovereign cloud, and Windows as a platform for agents.
 
 ## Notes
