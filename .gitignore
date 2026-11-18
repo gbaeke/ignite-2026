@@ -1,2 +1,7 @@
 video/
 ignite-2026-opening-keynote-transcript.md
+
+# Working material from session processing
+*/work/
+*.wav
+*-transcript.md
